@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "name": "Sociology",
+            "time": "Online"
+        },
+        {
+            "name": "Prep 1000",
+            "time": "Online"
+        },
+        {
+            "name": "Computers",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "location": "B232"
+        },
+        {
+            "name": "Conflicts & Resolutions",
+            "day": "Thursday",
+            "time": "10:00 AM",
+            "location": "D204"
+        },
+        {
+            "name": "Communications",
+            "day": "Wednesday",
+            "time": "10:00 AM",
+            "location": "JW202"
+        },
+        {
+            "name": "Academic Success",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "location": "H184"
+        },
+        {
+            "name": "History",
+            "day": "Friday",
+            "time": "10:00 AM",
+            "location": "D204"
+        }
+    ]
+}
