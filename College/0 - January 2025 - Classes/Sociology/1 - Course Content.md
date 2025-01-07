@@ -210,3 +210,31 @@ Click each article and consider:
 
 ## Slide 17: John Green Crash Course vid on Social Media
 
+_Amy notes on the John Green video:_
+_* It turns out that whether or not you participate in Twitter is irrelevant to whether or not Twitter affects your life because what's shared online has offline consequences._
+_* When we're this reliant on a media ecosystem full of pollution, we have to take responsibility for what we read, post, and share._
+_* Algorithms that organize our feeds into filter bubbles. (I have a carefully curated social media. I don't engage with anything that I hate, so that I don't get fed that hate back to me just because I engaged in it. It feels like it results in a self-censoring behaviour, because if I deign to explore outside the bounds of the safe space I created for myself, my calm cozy scrolling experience will be disrupted by spikes of stress and discomfort that go against the point of what I'm using the app for. Which is not noble; it's to be entertained and distracted, connecting with people who share my hobbies, and getting some kind of social connection that I don't get IRL. People want to pressure people to be engaged politically or in these debates online, but my social filter bubble online is important to me because I have so many other vectors that put me at a higher risk of suicide due to social isolation. And if it's all misinformation campaigns anyways, I'd prefer not to look. Cowardly, but true. At a micro level that's one thing, but at a macro level that over-reliance on being a part of an online society makes it easier to influence large swathes of the population, and raises the stakes of social media disinformation campaigns in the "personal trouble" way.)" It makes one feel paranoid, distrusting, and ill-at-ease._
+
+_. Entire businesses have been run on engaging but false news stories. When the business makes money from clicks and advertisements, they use the engagement bait to their advantage._
+
+9:00 
+Engagement over quality makes it harder for people to distinguish truth from fiction. 
+
+Confirmation bias. 
+
+Extreme recommendation engines. 
+- The way we use the app tends to keep us surrounded by the same content we engage with. 
+- Updates to algorithms can have an impact. I'm curious about the data, about the effectiveness /  impact of youtube's update to prefer authoritative content. Or if there is any, data about the chronological feeds vs. "for you" mess. 
+
+**Lateral Reading**
+- Check the source
+- Look for authority and perspective
+- Check the claim
+- Check the evidence.
+
+Challenge your source and your own assumptions. 
+Be suspicious.
+
+# References for this course content:
+* Brym, R., Roberts L.W., & Strohschein, L(2016). Chapter 1: A Sociological Compass. Sociology: Compass for a New Social World. Sixth Edition. Toronto: Nelson.
+
