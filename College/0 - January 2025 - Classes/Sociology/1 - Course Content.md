@@ -70,25 +70,25 @@ _Amy: My source for the top five social issues facing Canada today is the [Servi
 
 _1. People cannot tell what is true and what is not_
 
-* _Micro: Sue doesn't know what news to trust, so she tunes out all of it. On election day, Sue doesn't vote, or votes based on someone else's opinions. Sue is not aware of how she may have been passively influenced by her casual social media use._
-* _Macro: [The Online News Act](https://www.canada.ca/en/canadian-heritage/services/online-news.html) was passed. "The intent of the regulations is to provide platforms the opportunity to reach fair commercial agreements with news businesses, including the possibility of a single agreement with a group of news businesses, and thereby contribute to the overall sustainability of the Canadian news marketplace." Therefore, the Canadian government is concerned about the sustainability of the Canadian news marketplace, and have passed legislation to support it. Regulations in support of Canadian news indicates that there are disruptions in Canadians ability to access relevant news and media at a macro level._
+* _**Micro:** Sue doesn't know what news to trust, so she tunes out all of it. On election day, Sue doesn't vote, or votes based on someone else's opinions. Sue is not aware of how she may have been passively influenced by her casual social media use._
+* _**Macro:** [The Online News Act](https://www.canada.ca/en/canadian-heritage/services/online-news.html) was passed. "The intent of the regulations is to provide platforms the opportunity to reach fair commercial agreements with news businesses, including the possibility of a single agreement with a group of news businesses, and thereby contribute to the overall sustainability of the Canadian news marketplace." Therefore, the Canadian government is concerned about the sustainability of the Canadian news marketplace, and have passed legislation to support it. Regulations passed in support of Canadian news indicate that there are real disruptions in Canadians ability to access relevant news and media at a macro level._
 
 _2. Downward social mobility is the norm_
 
-* _Micro: ._
-* _Macro: ._
+* _**Micro:** Bob is 35 years old and lives in his mom's basement. When his parents were his age, his dad supported the family on a single income. Bob works two jobs in the gig economy, but still can't afford a place of his own._
+* _**Macro:** Canada has numerous strategies in place for decreasing "the degree to which the fortune of children relies on that of their parents." (from the [Canadian Encyclopedia entry on Social Mobility](https://www.thecanadianencyclopedia.ca/en/article/social-mobility)) Therefore, it's a real social issue on a macro level._
 
 _3. Artificial Intelligence runs wild_
 
-* _Micro: ._
-* _Macro: ._
+* _**Micro:** Amy was laid off in large part because of AI's disruptions to the tech industry._
+* _**Macro:** The first line in [The Artificial Intelligence and Data Act (AIDA) – Companion document](https://ised-isde.canada.ca/site/innovation-better-canada/en/artificial-intelligence-and-data-act-aida-companion-document)(from Canada.ca): "Artificial intelligence (AI) systems are poised to have a significant impact on the lives of Canadians and the operations of Canadian businesses."_
 
 _4. Ageing population has no support_
 
-* _Micro: ._
-* _Macro: ._
+* _**Micro:** Sue's long term expose to negative stereotypes about aging has led to a self-fulfilling prophecy. She now has low self-esteem, and is having trouble getting her doctor to take her health concerns seriously.'._
+* _**Macro:** "Canada faces significant aging of its population in the coming decades that will have profound and wide-ranging impacts on society."... "Ageism is not only a barrier to labour force participation among older adults, it is also a major loss for employers in terms of productivity. Along the same lines, the negative outcomes of ageism on a person’s health ultimately impact the entire health care system’s sustainability. This explains the growing interest in methodologies that can be used to measure and quantify the economic impacts of ageism.", from [Reports: Seniors and aging society (2024-08-28)](https://www.canada.ca/en/employment-social-development/corporate/reports/seniors-aging.html)(from Canada.ca)._
 
 _5. Values-based clashes in society_
 
-* _Micro: ._
-* _Macro: ._
+* _**Micro:** Bob feels that his values are not represented in Canadian society. Due to some confrontations online and on the drive home, he is feeling more and more like an outsider, and is losing trust in his community._
+* _**Macro:** From the [Canadian Index of Wellbeing](https://uwaterloo.ca/canadian-index-wellbeing/about-canadian-index-wellbeing/reflecting-canadian-values) (UWaterloo): "Values are critical. They provide guideposts for how Canada can move forward as a society, how we can orient ourselves during challenging times, how we can inspire our citizens and how we can be confident that the policies and programs we recommend and the path we choose will reflect the vision of our citizens." "... "Social Norms and Values - Attitudes towards others and community - Attitudes and values are important contributors to community vitality because ideas, assumptions, and beliefs motivate social engagement and action within communities and Canadian society more broadly. Commonly shared feelings of trust, belonging, and caring are markers of inclusive societies. Discrimination, on the other hand, challenges community relationships and creates barriers to the pursuit of wellbeing, especially for groups that are seen by others as different."._
