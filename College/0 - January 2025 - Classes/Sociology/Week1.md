@@ -1,15 +1,60 @@
 # Week 1
 
-## Week 1 Content Notes
-[DC Connect - Read Me First](https://durhamcollege.desire2learn.com/d2l/le/content/602910/viewContent/8398029/View?ou=602910)
-
 ## Key Info
 - Course: GNED 1407 - Intro to Sociology
+- Description: Sociology is the study of people and how they interact with each other and various social groups. This course deals with the study of people's lives, their relationship to society as a whole, and how people are affected by the society in which they live. The concepts, theories, and methods of the discipline will be introduced and discussed with particular emphasis on the dynamics of Canadian society and Canadian social problems. 
 - Prof: Masoud Kianpour, GNED Prof, Faculty of Liberal Studies
   - Undergrad in Economics, Masters and PhD. in Sociology. Also a social psychologist. Teaching since 2023. 
   - **Masoud.Kianpour@durhamcollege.ca**
   - Email etiquette: State the class subject and CRN or day/time.
   - Teams etiquette: Sign in to Teams using Durham College credentials. Compose new chat, video, or voice to Masoud.Kianpour@durhamcollege.ca. Available for virtual meetings by appointment.
+
+## Week 1 Content Notes
+[DC Connect - Read Me First](https://durhamcollege.desire2learn.com/d2l/le/content/602910/viewContent/8398029/View?ou=602910)
+
+[Professional Email Communication](https://youtu.be/SMnjShkHCug) (DC YouTube Video)
+
+### List of Topics
+* Sociological Imagination
+* Functionalist Theory
+* Conflict Theory (Feminist, Race)
+* Symbolic Interactionism
+* Culture (2 Weeks)
+* Family (2 Weeks)
+* Race & Ethnicity (2 Weeks)
+* Deviance (2 Weeks)
+
+### Course Structure
+- Lecture: Each week a PowerPoint will be posted for us to review on our own time. Dr. Kianpour will post video updates on Monday to introduce the weekly topic and discuss it. 
+- Powerpoint Lesson: Check the "notes" section of the slide deck.
+- Video lesson
+- Links to homework
+- Regular "Announcements" to be posted on the DC Connect homepage with succinct and pertinent reminders about what is due that week and what is coming up.
+- 3 hours a week reviewing and engaging with the material on average.
+- Check DC Connect and DC Mail on a daily basis. Do not use personal gmail address, use DC Mail address only as a preparation for professional work environments and to ensure security. 
+- Turn on "Notifications" in DC Connect - click the avatar at the top of the page and customize how you would like to be notified of any new activity. 
+- There are video tutorials for each tool in DC Connect, use those resources. 
+
+### Evaluations
+- Weekly Activities: 20%
+- Assignment #1 - Fake News: 15%. Due week 6
+- Assignment #2 - Community Learning Assignment: 15%. Due week 10. 
+- Assignment #3 - Final Portfolio: 25%. Due Week 13. 
+- Quizzes - 5 x 5%. Weeks 5, 7, 9, 11, 14.
+
+### Online code of conduct: standards of behaviour
+In short, I expect you to engage with myself and your peers respectfully during any and all interactions. Since most of our communication is written, please proofread your messages for manners, politeness, tone, and intention. 
+
+We discuss sensitive topics in this class and disrespect, anger, humiliation, rudeness, or inflammatory speculation will not be tolerated, regardless of intention. 
+
+If you are unsure, speak to Dr. Kianpour privately.
+
+### Academic Integrity: required reading
+Academic integrity means academic honesty. Students are responsible for completing their studies in an open, honest, and responsible manner. This means doing and submitting your own work, citing sources appropriately, and not engaging in behaviours that would be considered to be a breach of academic integrity (e.g COPY/PASTE). If you are not 100% clear on what any of the above means, it is your responsibility to make sure that you do before handing in any work. 
+
+[DC learning resource: Academic Integrity](https://durhamcollege.ca/mydc/learning-resources/academic-integrity)
+
+_Note: [Here is the link that shows I completed the Ontario Tech academic integrity module on Oct 31st, 2024](https://github.com/sixswordstudio/Education/blob/4ce13487020395a0ee5f7cf6cf3accf81dfc5b19/Academic%20Integrity%20Module%20-%20Completion%20Certificate%20-%202024.10.31.png)._
 
 ## Task Instructions
 _Masoud Kianpour posted on Jan 6, 2025 11:56 AM_:
