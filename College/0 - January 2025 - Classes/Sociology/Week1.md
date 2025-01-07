@@ -118,6 +118,58 @@ General Education Classes are important to your education. Being able to explore
 * We will learn how to verify and find quality sources of info in order to navigate the internet for personal and academic use
 * You'll practice this weekly and more in depth on Assignment #1. 
 
+### FAQ
+Do we have a lecture in this class?
+Technically, no—this is a fully asynchronous online class, meaning we won’t meet face-to-face. However, you are expected to check the course content regularly and complete all the weekly activities. I encourage you to develop a personal routine early in the semester to stay on top of the content and actively engage with the various activities.
+
+#### Can I submit my work late? 
+It depends.
+
+Quizzes - yes. The "due dates" are just a suggestion; you can choose to complete them anytime before the last day of classes. 
+
+Major assignments (midterm and final assignments) can be submitted late with a penalty of 10%/day.
+
+Weekly Activities are NOT accepted late and CANNOT be made up since they are low-value items and often open for week(s) at a time until they are due.
+
+#### Can I "make up" work or have extra work to boost my mark? 
+Nope! 
+
+This is not a practice I use. However, I will provide ample opportunity for any extra help and support you may need with your regularly assigned evaluations. 
+
+
+#### I'm failing/falling behind/missed classes or assignments because of ______. What do I do? 
+If you have an extenuating circumstance that is preventing you from attending class/complete your work, if possible you should be proactively consulting with your instructor to establish solutions together. Please never hesitate to reach out to your instructor for support as early as possible. We will provide you with as much support and information we can give you. In addition, consider contact with the Academic Advisor for your department, Centre for Teaching & Learning, Access Centre, or the Campus Wellness Centre for additional resources.
+
+
+#### I'm having a really hard time coping. My mental health is suffering. What can I do?  
+Your professors are here to point you in the right direction for support you may need throughout the semester in regard to your mental health. These are the resources that can support students both on-campus or off. Whether you're experiencing a crisis or just feeling overwhelmed, there is support available for you at DC. To see the full list, click here. opens in new window
+
+#### 🚨 Emergencies:
+
+On-campus: dial 905-721-3211 ext. 2400 / Off-campus: dial 911
+
+-
+
+#### Get help on campus: 
+
+🔗   Campus Health and Wellness Centre opens in new window [access to mental health doctors, nurses, counselling, and more]. 
+
+🔗  Durham College Students Inc. - Outreach opens in new window [peer support, workshops, referrals, social activities, and more]. 
+
+#### Get help anytime or off-campus: 
+
+🔗  Good2Talk opens in new window [24/7 crisis line, call or text]. 
+
+🔗  Ontario 211 Community and Social Services Help Line opens in new window [find community resources near you, for any issue]. 
+
+#### Related resources:
+
+🔗 Centre for Teaching & Learning opens in new window[formerly "SALS" - academic extra help, tutoring, workshops for any subject] 
+
+🔗  Access and Support Centre (ASC) opens in new window [register for accommodations, coaching, and more]. 
+
+🔗  Student Advisors (by department) opens in new window [adding or dropping classes, progress through your program, referrals, and more]. 
+
 ## Task Instructions
 _Masoud Kianpour posted on Jan 6, 2025 11:56 AM_:
 
