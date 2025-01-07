@@ -35,4 +35,28 @@ This week I have provided two separate files; one is the course introduction - t
 _Amy: Lauryn Hill's line "Everything is everything / After winter, must come spring" relates to my idea about the world and social groups as having seasons. Natural cycles over which we have no real control. There are some things that are out of our hands, that can't be changed but also can't be our fault. It's the natural balance of the world, where we can't take any season for granted because it always comes to a close. Whether that's a season of love and light, or a season of dark depression. It speaks to being humbled by the fact that the world keeps worlding while we're playing our social games. Win or lose, or completely lost, nothing in life is guaranteed. "Change, it comes eventually."_
 
 ## Slide 5: What is sociology?
+Sociology is a science guided by the basic understanding that our lives are affected, not only by our individual characteristics, but by our place in the social world. 
+**What does that really mean?**
+* People, groups, and social life can be scientifically studied. Therefore, sociology is a social science. 
+* Sociology focuses on social relationships, looking at how others influence our behaviour
+  * How major social institutions like the government, religion, and the economy affect us; and how we ourselves affect other individuals, groups, and even organizations.
+
+## Slide 6: Sociological Imagination
+* The "tool" essential for beginners to sociology is called "sociological imagination", first proposed by **C. Wright Mills**
+* It means: The ability to understand how social forces ("Public Issues") influence the lives of individuals ("Personal Troubles")
+* Reflect: Consider one recent economic or political change that had a direct impact on your individual life. Reflect independently, or share your thought on the Lesson Lounge discussion board. 
+
+_Amy: One recent economic change that has had a direct impact on my life as an individual is the rise of Artificial Intelligence. After a 7 year career as a Technical Writer for business-to-business software-as-a-service companies, I was laid off in part due to my role becoming less valuable. Tech in Canada right now is in a rough place. In my role, I was paid a modest $67k CAD a year, but in the states, a similar role with similar level of experience is paid 100+k **USD**. Now my options are getting ever narrower, and there is a "gig economy" rising up in my field, where people with my skill set are lucky if they can land a salary. Recently the SAG went on strike to negotiate protections against AI exploitation for writers and actors in the entertainment industry. There are few if any unions in tech, and it feels taboo to talk about that. I guess I could always just accept a contract gig, training the AI that replaced me. And that's why I'm back in school._
+
+Speaker notes: Developing this perspective asks us to give up the idea that our behaviour is simply a matter of what we decide to do. Now, we must combine an understanding of our individual decisions with how they are impacted by the greater world in which we live. 
+
+## Slide 7: Sociological Imagination - Connecting the...
+* General --> Particular
+* Strange --> Familiar
+* Social --> Individual
+* Public --> Private
+* Macro --> Micro
+
+## Slide 8: Using the sociological imagination
+Sociological perspective / imagination is basically the ability to see relationships or influences of greater society on individual lives. This requires individuals to step outside of their own views and biases to explore connections. Private troubles vs. Public issues. E.G: Is a person unemployed due to a personal trouble or is it due to societal issues?
 
