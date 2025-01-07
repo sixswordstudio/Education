@@ -60,3 +60,35 @@ Speaker notes: Developing this perspective asks us to give up the idea that our 
 ## Slide 8: Using the sociological imagination
 Sociological perspective / imagination is basically the ability to see relationships or influences of greater society on individual lives. This requires individuals to step outside of their own views and biases to explore connections. Private troubles vs. Public issues. E.G: Is a person unemployed due to a personal trouble or is it due to societal issues?
 
+**Task:**
+Independently or using the Lesson Lounge discussion board, make a list of the 5 most pressing social issues facing Canadians. 
+
+1. Discuss how each of them would affect an **individual's** life. (Micro)
+2. Discuss how it would affect an entire **population**, like Canada (Macro)
+
+_Amy: My source for the top five social issues facing Canada today is the [Service Canada 2024 Disruptions report](https://horizons.service.canada.ca/en/2024/disruptions) and map. The social issues identified as being the most impactful and most likely to have an impact within 3-10 years are:._
+
+_1. People cannot tell what is true and what is not_
+
+* _Micro: Sue doesn't know what news to trust, so she tunes out all of it. On election day, Sue doesn't vote, or votes based on someone else's opinions. Sue is not aware of how she may have been passively influenced by her casual social media use._
+* _Macro: [The Online News Act](https://www.canada.ca/en/canadian-heritage/services/online-news.html) was passed. "The intent of the regulations is to provide platforms the opportunity to reach fair commercial agreements with news businesses, including the possibility of a single agreement with a group of news businesses, and thereby contribute to the overall sustainability of the Canadian news marketplace." Therefore, the Canadian government is concerned about the sustainability of the Canadian news marketplace, and have passed legislation to support it. Regulations in support of Canadian news indicates that there are disruptions in Canadians ability to access relevant news and media at a macro level._
+
+_2. Downward social mobility is the norm_
+
+* _Micro: ._
+* _Macro: ._
+
+_3. Artificial Intelligence runs wild_
+
+* _Micro: ._
+* _Macro: ._
+
+_4. Ageing population has no support_
+
+* _Micro: ._
+* _Macro: ._
+
+_5. Values-based clashes in society_
+
+* _Micro: ._
+* _Macro: ._
