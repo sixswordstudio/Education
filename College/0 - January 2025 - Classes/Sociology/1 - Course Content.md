@@ -92,3 +92,121 @@ _5. Values-based clashes in society_
 
 * _**Micro:** Bob feels that his values are not represented in Canadian society. Due to some confrontations online and on the drive home, he is feeling more and more like an outsider, and is losing trust in his community._
 * _**Macro:** From the [Canadian Index of Wellbeing](https://uwaterloo.ca/canadian-index-wellbeing/about-canadian-index-wellbeing/reflecting-canadian-values) (UWaterloo): "Values are critical. They provide guideposts for how Canada can move forward as a society, how we can orient ourselves during challenging times, how we can inspire our citizens and how we can be confident that the policies and programs we recommend and the path we choose will reflect the vision of our citizens." "... "Social Norms and Values - Attitudes towards others and community - Attitudes and values are important contributors to community vitality because ideas, assumptions, and beliefs motivate social engagement and action within communities and Canadian society more broadly. Commonly shared feelings of trust, belonging, and caring are markers of inclusive societies. Discrimination, on the other hand, challenges community relationships and creates barriers to the pursuit of wellbeing, especially for groups that are seen by others as different."._
+
+## Slide 9: A Classical Example - Emile Durkheim + Suicide
+
+"If sociology can reveal the hidden social causes of such an apparently non-social and antisocial phenomenon, there must be something to it!"
+- Suicide was long thought of as an individual, psychological event. Durkheim showed that social forces influence suicide rates: a groundbreaking sociological discovery.
+- Suicide rates varied because of differences in the degree of social solidarity in various categories of the population. (Religion, gender, etc.)
+
+### Speaker notes
+**Social solidarity** refers to:
+1. The degree to which group members share beliefs and values
+2. The intensity and frequency of their interaction
+
+**Emile Durkheim:** pioneering French sociologist
+- Found that social forces influence suicide rates, and found little evidence that psychological disorder was correlated to suicide rates.
+- Found that social solidarity among particular groups was related to suicide rates.
+
+He noticed:
+* Religion: Jews more likely to suicide (persecution brought them closer) than Christians. Catholics less likely than Protestants (a more solitary worship)
+* Marriage: Married people less likely to suicide than singles
+* Gender: Women less likely to suicide than men (masculinity norms prevented as strong of social bonds)
+* Age: Elderly much more likely to be socially isolated than younger people
+
+## Slide 10: From personal troubles to social structures
+**Social Institutions**: Relatively stable patterns of social relationships that help society function properly
+* Micro: intimate social relations formed face-to-face. Families, friendship circles, and work associations. 
+* Macro: Overarching patterns that lie outside of your circle of acquantances. Classes, bureaucracies, and power systems like patriarchy. 
+
+**One of the main goals of sociology is to identify and explain how an individual's personal troubles are connected to the social structure in which the individual lives.**
+
+## Slide 11: Going Global
+**Global Structures**: Patterns of social relations that lie outside and above the national level. International organizations, patterns of worldwide travel and communication, and the economic relations between countries. 
+
+We are ever more connected culturally, economically, and politically. 
+
+Where we live shapes our lives. Societies throughout the world are increasingly interconnected through technology and economics.
+
+What happens in the rest of the world affects life here in Canada.
+
+Many problems that we face in Canada are more serious elsewhere. 
+
+Thinking globally is a good way to learn more about ourselves.
+
+### Reflect
+Consider 1 issue that recently occurred in another country and how Canadians reacted. Why did they react this way? Reflect independently, or share your thought on the Lesson Lounge discussion board.
+
+_Amy: Recently the President-Elect of the United States has suggested that Canada should be the 51st state. This has caused some Canadians to react with extreme indignation at the notion. It's interesting to note, because why wouldn't we, the weaker country next to a superpower like the states, be at risk of being conquered? What makes us so special that we wouldn't be at risk of being taken over for our resources, when countries full of people just like us, like Ukraine, have to fight and die to resist that same fate? Why do we feel entitled to be given that respect, when we haven't had to risk or sacrifice anything like the Ukrainians have, like our lives, livelihoods, money, status quo, to stand up for it?._
+
+## Slide 12: In Conclusion
+The Sociological Imagination gives us the ability to see the world as an outside might. We are about to embark on a 14 week exploration of your own sociological imagination; you'll be using it even when you don't realize it!
+
+## Slide 13: Sociological Theories
+Sociology uses 4 major theoretical perspectives to analyze social issues. Each has a unique view of the same issue. 
+
+1. Functionalist Theory.
+  * Main focus: Values
+  * Level of analysis: Macro
+  * Core questions:
+    - What keeps society functioning smoothly?
+    - What is the standard, tradition, or status-quo?
+    - What are the parts of society, and how do they relate?
+    - What are the intended / unintended outcomes of an event?
+
+2. Symbolic Interactionism Theory.
+  * Main focus: Meaning
+  * Level of analysis: Micro
+  * Core questions:
+    - How do people interact?
+    - How does interaction influence relationships?
+    - Do people change their behaviour in certain settings? Why?
+
+3. Conflict Theory.
+  * Main focus: Inequality
+  * Level of analysis: Macro
+  * Core questions:
+    - How are wealth, power, opportunities, and resources distributed in society? 
+    - Is this fair and just?
+    - Who benefits / who suffers?
+    - How are marginalized groups (gender, race) impacted?
+
+1. Feminist Theory.
+  * Main focus: Patriarchy
+  * Level of analysis: Both micro & macro
+  * Core questions:
+    - We will group this under the umbrella of "Conflict theory"
+    - What are the effects of gender inequality in society?
+    - How does the intersection of race and gender operate?
+    - LGBTQ+ issues?
+
+## Slide 14: Sociological research
+Sociologists study all kinds of social groups and social phenomena. 
+
+They use the scientific method to objectively collect information through various research methods. 
+
+This can involve quantitative (statistics) and/or qualitative information (i.e interviews)
+
+This means that sociology is not just "common sense," or hypothesizing about what might improve society, but it is a legitimate academic field that helps inform areas like social policy, government / non-government organizations, and public interest. 
+
+**Speaker notes**
+The scientific method: 
+1. Decide on a topic
+2. Review the literature
+3. Develop a hypothesis
+4. Select a research design and collect data
+5. Analyze the results
+6. Share and publish the data
+
+## Slide 15: Fake News
+Click each article and consider:
+- What are the similarities and differences?
+- Which source is more credible?
+- Describe why you think so
+
+- Chat with me on Teams, connect with a peer, or post on the Lesson Lounge discussion board. 
+
+(The links are broken)
+
+## Slide 17: John Green Crash Course vid on Social Media
+
