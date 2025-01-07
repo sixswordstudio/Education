@@ -146,3 +146,6 @@ Click "start new thread" and then click the "insert stuff" button (it looks like
 
 ### Comments on peers' posts
 
+## Notes for Email to Dr. K
+* Technical note: the expandable content blocks on [this page](https://durhamcollege.desire2learn.com/d2l/le/content/602910/viewContent/8398032/View) are not expanding as expected.
+* Typo: Page 10 of the slide deck, in the title it says "how will his online class work" should be "this"
