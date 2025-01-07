@@ -142,33 +142,7 @@ If you have an extenuating circumstance that is preventing you from attending cl
 
 
 #### I'm having a really hard time coping. My mental health is suffering. What can I do?  
-Your professors are here to point you in the right direction for support you may need throughout the semester in regard to your mental health. These are the resources that can support students both on-campus or off. Whether you're experiencing a crisis or just feeling overwhelmed, there is support available for you at DC. To see the full list, click here. opens in new window
-
-#### 🚨 Emergencies:
-
-On-campus: dial 905-721-3211 ext. 2400 / Off-campus: dial 911
-
--
-
-#### Get help on campus: 
-
-🔗   Campus Health and Wellness Centre opens in new window [access to mental health doctors, nurses, counselling, and more]. 
-
-🔗  Durham College Students Inc. - Outreach opens in new window [peer support, workshops, referrals, social activities, and more]. 
-
-#### Get help anytime or off-campus: 
-
-🔗  Good2Talk opens in new window [24/7 crisis line, call or text]. 
-
-🔗  Ontario 211 Community and Social Services Help Line opens in new window [find community resources near you, for any issue]. 
-
-#### Related resources:
-
-🔗 Centre for Teaching & Learning opens in new window[formerly "SALS" - academic extra help, tutoring, workshops for any subject] 
-
-🔗  Access and Support Centre (ASC) opens in new window [register for accommodations, coaching, and more]. 
-
-🔗  Student Advisors (by department) opens in new window [adding or dropping classes, progress through your program, referrals, and more]. 
+Your professors are here to point you in the right direction for support you may need throughout the semester in regard to your mental health. These are the resources that can support students both on-campus or off. Whether you're experiencing a crisis or just feeling overwhelmed, there is support available for you at DC. To see the full list, [click here.](https://durhamcollege.ca/are-you-ok)
 
 ## Task Instructions
 _Masoud Kianpour posted on Jan 6, 2025 11:56 AM_:
