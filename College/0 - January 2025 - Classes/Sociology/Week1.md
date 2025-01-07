@@ -9,6 +9,8 @@
   - Email etiquette: State the class subject and CRN or day/time.
   - Teams etiquette: Sign in to Teams using Durham College credentials. Compose new chat, video, or voice to Masoud.Kianpour@durhamcollege.ca. Available for virtual meetings by appointment.
 
+[Meet the Professor Page](https://durhamcollege.desire2learn.com/d2l/le/content/602910/viewContent/8398030/View)
+
 ## Week 1 Content Notes
 [DC Connect - Read Me First](https://durhamcollege.desire2learn.com/d2l/le/content/602910/viewContent/8398029/View?ou=602910)
 
@@ -55,6 +57,39 @@ Academic integrity means academic honesty. Students are responsible for completi
 [DC learning resource: Academic Integrity](https://durhamcollege.ca/mydc/learning-resources/academic-integrity)
 
 _Note: [Here is the link that shows I completed the Ontario Tech academic integrity module on Oct 31st, 2024](https://github.com/sixswordstudio/Education/blob/4ce13487020395a0ee5f7cf6cf3accf81dfc5b19/Academic%20Integrity%20Module%20-%20Completion%20Certificate%20-%202024.10.31.png)._
+
+#### In-depth information from the Course Outline about Academic Integrity
+All students at Durham College have the responsibility to familiarize themselves with and abide by the
+college’s Academic Integrity Policy. Students are expected to complete and submit their own work in an
+honest manner, in accordance with the policy. Durham College has zero tolerance for breaches of academic
+integrity. All suspected breaches of academic integrity will be investigated and documented following
+procedures outlined in the policy, and should a breach be confirmed, appropriate penalties will be levied.
+Breaches of academic integrity refer to a variety of practices including, but not limited to:
+
+• copying another person’s work;
+• using unauthorized materials or resources during an evaluation;
+• obtaining unauthorized copies of evaluations in advance;
+• collaborating without permission;
+• colluding or providing unauthorized assistance;
+• falsifying academic documents or records;
+• misrepresenting academic credentials;
+• buying, selling, stealing, soliciting, exchanging or transacting materials or information for the purpose of
+academic gain;
+• bribing or attempting to bribe personnel;
+• impersonation;
+• submitting the same work in more than one course without authorization;
+• improper use of computer technology and the internet;
+• depriving others of academic resources;
+• misrepresenting reasons for special consideration of academic work;
+• plagiarizing or failing to acknowledge ideas, data, graphics or other content without proper and full
+acknowledgement;
+• any unauthorized use of generative or other artificial intelligence.
+
+If you have questions or concerns about what constitutes appropriate academic conduct or research and
+citation methods, and what your responsibilities are towards academic integrity, please visit the Academic
+Integrity website on MyDC, reach out to Student Academic Learning Services (SALS), or speak with your
+professor or Student Advisor.
+
 
 ### Sociology Mindset: Learning zones
 * Red: I can't learn this, it's too hard, I don't get it, I don't like it, I don't agree, I'm checking out. Asking rhetorical questions, purposely controversial questions, in order to advance your own opinion. Shutting down, in denial, lack of effort.

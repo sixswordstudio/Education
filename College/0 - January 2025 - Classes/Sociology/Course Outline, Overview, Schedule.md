@@ -1,5 +1,4 @@
 # Course Outline, Overview and Schedule
-
 This page contains important details and documents that will be necessary for you to read and understand before beginning our semester together. 
 
 ## Course Learning Outcomes
