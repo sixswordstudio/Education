@@ -56,6 +56,33 @@ Academic integrity means academic honesty. Students are responsible for completi
 
 _Note: [Here is the link that shows I completed the Ontario Tech academic integrity module on Oct 31st, 2024](https://github.com/sixswordstudio/Education/blob/4ce13487020395a0ee5f7cf6cf3accf81dfc5b19/Academic%20Integrity%20Module%20-%20Completion%20Certificate%20-%202024.10.31.png)._
 
+### Sociology Mindset: Learning zones
+* Red: I can't learn this, it's too hard, I don't get it, I don't like it, I don't agree, I'm checking out. Asking rhetorical questions, purposely controversial questions, in order to advance your own opinion. Shutting down, in denial, lack of effort.
+
+* Yellow: I may not know this yet, but I'd like to know more. I may know a lot, but I will continue to think critically, engage, and not assume I'm an expert. Open, unbiased, objective, willing to share and also to learn. 
+
+* Green: I'm an expert! I already know everything there is to know. There isn't possibly any new information about this topic I'm not privy to. I'm the authority. Presumptive, close-minded, leads to a stalemate of knowledge.
+
+### Campus Resources
+- Services At-a-Glance
+- Accessibility at DC
+- FAQs
+
+### Mental Health at DC
+- College and life are overwhelming
+- Students need support
+- Faculty, staff, and admin are here for you
+- Pressing the "Are you ok" button links you directly to mental health support on campus, near you, or online.
+
+### Why GNEDs
+General Education Classes are important to your education. Being able to explore new topics that compliment your certificate, diploma, or degreee is a valuable experience; employers desire well-rounded individuals. What do you want to get out of your GNEDs?
+
+### Sneak Peek
+* 1 theme of the semester will be "FAKE NEWS"
+* We will learn how to identify misinformation or unreliable sources
+* We will learn how to verify and find quality sources of info in order to navigate the internet for personal and academic use
+* You'll practice this weekly and more in depth on Assignment #1. 
+
 ## Task Instructions
 _Masoud Kianpour posted on Jan 6, 2025 11:56 AM_:
 
