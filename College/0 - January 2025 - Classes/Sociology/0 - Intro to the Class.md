@@ -144,34 +144,6 @@ If you have an extenuating circumstance that is preventing you from attending cl
 #### I'm having a really hard time coping. My mental health is suffering. What can I do?  
 Your professors are here to point you in the right direction for support you may need throughout the semester in regard to your mental health. These are the resources that can support students both on-campus or off. Whether you're experiencing a crisis or just feeling overwhelmed, there is support available for you at DC. To see the full list, [click here.](https://durhamcollege.ca/are-you-ok)
 
-## Task Instructions
-_Masoud Kianpour posted on Jan 6, 2025 11:56 AM_:
-
-Introducing yourself, especially while we're online, really helps me connect with you. Please read and comment on a peer's post, too. If you're up for it, include a selfie so we can all put names to faces (no pressure).I know you're probably doing quite a few of these this week, so THANK YOU!
-
-Option #1: Written
-Click "start new thread" and answer the questions listed below in a written format. Click "post" and you're done! 
-
-Option #2: Video
-Click "start new thread" and then click the "insert stuff" button (it looks like a little 'play' symbol) and then "add video note." There, you can record your answers to the questions below directly from your webcam and insert the clip into the post instead of typing. Click "post" and you're done!
-
-
-**Questions:**
-
-1. Introduce yourself. Tell us 3 things about you or your life. Feel free to use words, images, GIFs, or videos to describe your life! Pictures of pets are encouraged ;)
-
-2. List at least one goal for this semester. It could be related to grades, skills, social, personal, wellness, habits, mindset... anything at all. Let's set some positive intentions! 
-
-3. Well... normally here I would ask you about a current event that interested you recently, but I think we're all pretty spent on that topic. So... if you were a professional wrestler what would be your entrance theme song? 
-
-## My Answers
-
-#### 1. Introduction:
-#### 2. Goals for the semester: 
-#### 3. Wrestling song: 
-
-### Comments on peers' posts
-
 ## Notes for Email to Dr. K
 * Technical note: the expandable content blocks on [this page](https://durhamcollege.desire2learn.com/d2l/le/content/602910/viewContent/8398032/View) are not expanding as expected.
 * Typo: Page 10 of the course introduction slide deck, in the title it says "how will his online class work" should be "this"
