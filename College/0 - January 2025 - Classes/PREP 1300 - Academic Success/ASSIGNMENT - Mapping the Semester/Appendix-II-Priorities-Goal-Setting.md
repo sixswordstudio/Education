@@ -68,3 +68,8 @@ In one full and complete paragraph (about 5-6 full, grammatically correct senten
    c. **What will it take** to achieve success in the program
 
    d. Where do you **hope to be** after completing the program
+
+#### Draft Answers
+1. My vision for the Winter 2025 semester is that, in the end, I am proud of my grades and my performance, having set the cornerstone of the foundation of further success.
+2. In order to make this vision a reality, I will show up to class on time, complete my assignments on time, and take responsibility for my responsibilities as a whole.
+3. SMART 1: 
