@@ -29,7 +29,7 @@ How would you describe history to a child?
 - Evidence of deeds
 
 Anything to do with humans that happened before this second is history.
-Root of the word "Histoire"
+Root of the word comes from French: "Histoire" meaning "story". 
 
 Understanding the tension, ideas, and sparks of actions that lead to further actions and events.
 
