@@ -126,4 +126,24 @@ _Amy: I would improve access to quality education for everyone. If learning oppo
 
  _Some latent functions of this change would be economic and social. More people being educated would improve the efficacy of the workforce as a whole, which would grow the economy. And when more people have access to education, there would be more understanding of diverse perspectives and critical thinking. This would hopefully reduce prejudice and nurture empathy across society._
 
- _The impact of increased access to education on families would also be manifest. Family members would have access to resources that support the function of their family both internally and externally. Then, a latent effect of increased access to education on the family structure might be that women and marginalized people might have more autonomy, more power, and better decision-making abilities beyond what their socialized functions have allowed within a more traditional family unit._
+ _The impact of increased access to education on families would also be manifest. Family members would have access to resources that support the function of their family both internally and externally. Then, a latent effect of increased access to education on the family structure might be that women and marginalized people could have more autonomy, more power, and better decision-making abilities beyond what their socialized functions within a more traditional family unit had previously allowed._
+
+## Slide 16 - Review of functionalism
+Functionalism's image of an ideal society is: **A state of equilibrium**.
+
+## Slide 17 - FAKE NEWS: Evaluating sources
+* Practicing for Assignment #1
+  * How do I know a source is good or bad?
+  * **Whether a source is "good" or "bad" depends on how you're going to use the information.**
+  * Casual use? Academic use? 
+  * **Casual**: Newspapers, blogs, organization websites, social media, wikipedia
+  * **Academic**: Library database, google scholar, academic journals, peer-reviewed articles
+
+## Slide 19 - FAKE NEWS: Practice
+* [Dynamics of forest fires in the southwestern Amazon](https://www.sciencedirect.com/science/article/abs/pii/S037811271830080X)
+* [Why is Brazil's Amazon Forest burning up?](https://blog.ecosia.org/brazils-amazon-rainforest-is-burning-up/)
+
+What are the similarities and differences? 
+Describe why you think so -- Chat with the prof on Teams, connect with a peer, or post on the Lesson Lounge discussion board. 
+
+_Amy: I think that the first link is more credible because it is peer reviewed. The second source is not, so that is a difference.  However, they are similar in that they both reference reliable data sources (NASA for the second source, and peer-reviewed papers for the first source). We should also look at the note at the bottom of the first source, where they acknowledge that they have received financing from three institutions. It is good to disclose the funding sources so that the readers can search for bias. The second source does not disclose this or have any "about us" section on the website, further devaluing the source for academic use._
