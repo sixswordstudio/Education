@@ -31,3 +31,36 @@ Functionalists believe that every phenomenon in society has a purpose - even the
 Reflect independently or share your thoughts in the lesson lounge discussion board. 
 
 _Amy: I believe that negative social issues offer the opportunity for society to manifest a positive outcome, to act accordingly in order to realize the aspiration of a truly Just society. Negative social issues could also be seen in light of a worse alternative, for example our healthcare system is not perfect and contains lots of negative social issues, but it is largely considered better than alternative systems like the for-profit systems of the U.S.A._
+
+## Slide 5 - Functionalist Theory
+- **Main Focus**: Social Institutions
+- **Level of Analysis**: Macro
+- **Core Questions**:
+  - What keeps society functioning smoothly?
+  - What is the standard, tradition, or status-quo?
+  - What are the parts of society, and how do they relate?
+  - What are the intended / unintended outcomes of an event?
+
+## Slide 6 - Definition of Functionalism
+- Sees people and the world in large-scale (Macro) and "As it should be"
+- Encourages the "status-quo", that is, how things have always been done. 
+- Attempts to highlight commonalities and squash dissent or rebellion
+- Attempts to see the function of everything - even bad stuff, like deviance. 
+
+## Slide 7 - Social institutions
+- **Definition**: Mechanisms or patterns of social order focused on meeting social needs, such as government, economy, education, family, healthcare, and religion. 
+
+- Relatively stable patterns of social relations
+- Based on shared values or preferences
+- They maintain stability and solve problems
+- Often expressed as conclusions, trends, or results based on social groups
+- Examples: Family, marriage, culture, media, work and labour, religion, education, the economy.
+
+## Slide 8 - What is the function of education in society?
+- Transmit knowledge in order to become productive citizens
+- Teaches cultural values like manners and citizenship
+- Takes care of children while parents work
+- Reinforces class differences (private schools)
+- Labels children into different "types" that impact future paths
+- These functions relate to other institutions than just the education system. **The functions of the institution are not always manifest (obvious) but also latent (implied)**
+
