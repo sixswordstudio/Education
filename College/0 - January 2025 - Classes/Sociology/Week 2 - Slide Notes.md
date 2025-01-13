@@ -64,3 +64,48 @@ _Amy: I believe that negative social issues offer the opportunity for society to
 - Labels children into different "types" that impact future paths
 - These functions relate to other institutions than just the education system. **The functions of the institution are not always manifest (obvious) but also latent (implied)**
 
+## Slide 9 - Function & Dysfunction
+Functionalists emphasize stability; when one part of society changes there must be adjustments in the others - otherwise, we may encounter dysfunction. 
+
+**Functions:**
+- Manifest - Obvious and intended effects of social structures
+- Latent - Non-obvious and unintended effects of social structures
+
+What are the MANIFEST functions of the social institution of marriage?
+- Companionship
+- Reproduction
+- Security
+- Justice
+
+LATENT
+- Tax breaks
+- Pooling resources
+- Social status
+- Divorce rate
+
+## Slide 10 - More key terms about Functionalism
+- Stability
+- Function
+- Dysfunction
+- Predictability
+- Order
+- Values
+- Norms
+- Equilibrium
+- Status quo
+- Tradition
+- Manifest (intended)
+- Latent (unintended)
+
+## Slide 12 - Functionalism: Give it a try
+**Sports**: In what ways do they contribute to the social order, function, and stability of society? What are their large-scale benefits?
+
+Do any specific examples come to mind? Make a list and share on the Lesson Lounge discussion board. 
+
+- Sports socialize young people into values (competition, patriotism)
+- Brings together the community to support local athletes or the nation
+- Promotes an overall feeling of unity and social solidarity
+
+### Lesson Lounge:
+_Amy: Sports are a function of society in that they provide a framework for expressing competitive spirit, something that offers challenges of merit, and rites of passage. It provides society with halls of glory that are entertaining feats of physical skills, a positive outlet for those human compulsions to compete, an alternative for warfare. For example the hockey hall of fame, the stats and analysts. Another way it contributes to the social order is that it can also be gambled upon, so it has a large part related to betting economies. Also, those members of society involved in the sport, or media around the sport, rely on it for stability of their careers and livelihoods. It is a part of the economy in that way._
+
