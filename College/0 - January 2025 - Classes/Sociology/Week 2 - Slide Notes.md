@@ -109,3 +109,21 @@ Do any specific examples come to mind? Make a list and share on the Lesson Loung
 ### Lesson Lounge:
 _Amy: Sports are a function of society in that they provide a framework for expressing competitive spirit, something that offers challenges of merit, and rites of passage. It provides society with halls of glory that are entertaining feats of physical skills, a positive outlet for those human compulsions to compete, an alternative for warfare. For example the hockey hall of fame, the stats and analysts. Another way it contributes to the social order is that it can also be gambled upon, so it has a large part related to betting economies. Also, those members of society involved in the sport, or media around the sport, rely on it for stability of their careers and livelihoods. It is a part of the economy in that way._
 
+## Slide 13 - Functionalism today
+- While Sociology today focuses more on social change rather than the status quo, functionalism still has its place. 
+- Healthy and predictable routines are great for families according to recent research (Cumming, 2020)
+
+## Slide 14: Functionalism's weaknesses
+- Ignores inequalitied of social class, race, and gender; focuses on stability at the expense of conflict
+- Encourages the status quo - what if it doesn't benefit everyone?
+- What about social change? Not really accounted for.
+- What else?
+
+## Slide 15: Weekly Activity
+- If you could change one thing about society, what would it be? Then describe the manifest and latent functions of this change. 
+
+_Amy: I would improve access to quality education for everyone. If learning opportunities were more equitable, then manifestly, there would be more upward socioeconomic mobility. If all people had equal access for the tools to develop their skills, gain knowledge, and pursue their potential, it would be good overall for society._ 
+
+ _Some latent functions of this change would be economic and social. More people being educated would improve the efficacy of the workforce as a whole, which would grow the economy. And when more people have access to education, there would be more understanding of diverse perspectives and critical thinking. This would hopefully reduce prejudice and nurture empathy across society._
+
+ _The impact of increased access to education on families would also be manifest. Family members would have access to resources that support the function of their family both internally and externally. Then, a latent effect of increased access to education on the family structure might be that women and marginalized people might have more autonomy, more power, and better decision-making abilities beyond what their socialized functions have allowed within a more traditional family unit._
