@@ -1,0 +1,49 @@
+{
+    "classes": [
+        {
+            "code": "GNED 1407",
+            "name": "Sociology",
+            "time": "Online"
+                
+        },
+        {
+            "name": "Prep 1000",
+            "time": "Online"
+        },
+        {
+            "code": "COMP 1701",
+            "name": "Computers",
+            "day": "Thursday",
+            "time": "8:00 AM",
+            "location": "B232"
+        },
+        {
+            "code": "GNED 1118",
+            "name": "No More Drama: Conflicts & Resolutions",
+            "day": "Thursday",
+            "time": "10:00 AM",
+            "location": "D204"
+        },
+        {
+            "code": "COMM 1100",
+            "name": "Communications",
+            "day": "Wednesday",
+            "time": "10:00 AM",
+            "location": "JW202"
+        },
+        {
+            "code": "PREP 1300",
+            "name": "Preparing for Academic Success",
+            "day": "Wednesday",
+            "time": "2:00 PM",
+            "location": "H184"
+        },
+        {
+            "code": "GNED 1437",
+            "name": "History of Western Civilization",
+            "day": "Friday",
+            "time": "10:00 AM",
+            "location": "D204"
+        }
+    ]
+}
