@@ -13,3 +13,15 @@ Titles especially are generated in a way to bring a reader in to their point of 
 
 Titles put you in a mood to receive information
 
+News organizations
+- Do they claim to be neutral?
+- Do they participate in Fake News?
+
+"Library and information science"
+
+## Growth Mindset
+"I can't do that... _yet_."
+
+It's more important that the ideas come from me than to have perfect grammar and writing. 
+
+Prof: Might need help with Application writing skills
