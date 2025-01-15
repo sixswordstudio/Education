@@ -7,6 +7,8 @@
 3. How did you each act during your attempt at conflict resolution? (What actions or behaviours did you notice in yourself? What actions or behaviours did you notice in the other person?)
 4. What was the outcome? (did you resolve the issue? how was the relationship left?)
 
+
+---
 1. The people involved with the conflict were: 
 -- Janet
 -- Scott (names changed)
