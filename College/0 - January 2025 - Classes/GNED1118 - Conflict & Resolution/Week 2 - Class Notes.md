@@ -64,7 +64,7 @@ _Conflict itself is not bad._
 - Substantive issue is resolved AND relationship is left intact (or improved!)
 - {People are often conflicted over their individual incompatible beliefs about Justice and fairness. Right and wrong. Who caused the problem? Who is responsible for it?
 
-- **Substantive** issue: The issue on its face. After resolving it, we don't damage the relationship.
+- **Substantive** issue: The issue on its face. After resolving it, we can **maintain the relationship**.
 - Being in a conflict, people need to know they are in a conflict for it to count.
 
 We often fail to engage in a collaborative approach (win-win) because of our perceptions of conflict. 
@@ -72,3 +72,13 @@ We often fail to engage in a collaborative approach (win-win) because of our per
 Change this perception, and we change our outlook about what may be achieved. 
 
 We can achieve **both** a positive outcome (solve the substantive issue) **and** support the relationship.
+
+## End of class concept guide
+- Conflict: Dispute
+- Negotiating: Bargaining
+- Interdependent: How our needs are enmeshed with, depend on each other
+- Parties: Two people in a conflict
+- Substantive issue AND relationship: 
+- Perceptions of conflict: If conflict is perceived in a win-lose mindset, it can affect the way we handle it. 
+
+
