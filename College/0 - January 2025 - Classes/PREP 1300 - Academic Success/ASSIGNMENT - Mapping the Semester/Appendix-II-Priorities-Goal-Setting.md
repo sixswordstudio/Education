@@ -85,7 +85,7 @@ In one full and complete paragraph (about 5-6 full, grammatically correct senten
   - A: It's for sure achieveable,
   - R: I've done it before, so it's realistic.
   - T: Every deadline is an opportunity for me to seize my destiny, own it, and make it mine.
-- SMART goal 3: **To get the most that I can out of this experience as a whole**
+- SMART goal 3: **To get the most that I can out of my educational experience as a whole**
   - S: Sign up to volunteer, or attend events not directly related to academics
   - M: Attend at least 2 events this semester
   - A: It's for sure achievable,
