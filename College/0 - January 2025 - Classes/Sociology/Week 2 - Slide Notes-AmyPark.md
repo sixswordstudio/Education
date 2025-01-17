@@ -1,4 +1,4 @@
-# Weekly Slide Notes
+# GNED 1407 - Week 2 Slide Notes
 **Key Terms**
 - Function
 - Status quo
@@ -107,7 +107,7 @@ Do any specific examples come to mind? Make a list and share on the Lesson Loung
 - Promotes an overall feeling of unity and social solidarity
 
 ### Lesson Lounge:
-_Amy: Sports are a function of society in that they provide a framework for expressing competitive spirit, something that offers challenges of merit, and rites of passage. It provides society with halls of glory that are entertaining feats of physical skills, a positive outlet for those human compulsions to compete, an alternative for warfare. For example the hockey hall of fame, the stats and analysts. Another way it contributes to the social order is that it can also be gambled upon, so it has a large part related to betting economies. Also, those members of society involved in the sport, or media around the sport, rely on it for stability of their careers and livelihoods. It is a part of the economy in that way._
+_Amy: Sports are a function of society in that they provide a framework for expressing competitive spirit, something that offers challenges of merit, and rites of passage. It provides society with halls of glory that are entertaining feats of physical skills, a positive outlet for those human compulsions to compete, an alternative for warfare. For example the hockey hall of fame, the stats and analysts. Another way it contributes to the social order is that it can also be gambled upon, so sports are a part of the betting / gambling industry / economy. Also, those members of society involved in a sport, or media around a sport, rely on it for stability of their careers and livelihoods. So sports are a big part of the media ecosystem and entertainment / broadcast industries as well._
 
 ## Slide 13 - Functionalism today
 - While Sociology today focuses more on social change rather than the status quo, functionalism still has its place. 
@@ -122,11 +122,11 @@ _Amy: Sports are a function of society in that they provide a framework for expr
 ## Slide 15: Weekly Activity
 - If you could change one thing about society, what would it be? Then describe the manifest and latent functions of this change. 
 
-_Amy: I would improve access to quality education for everyone. If learning opportunities were more equitable, then manifestly, there would be more upward socioeconomic mobility. If all people had equal access for the tools to develop their skills, gain knowledge, and pursue their potential, it would be good overall for society._ 
+_Amy: I would improve access to quality education for everyone. If learning opportunities were more equitable, then manifestly, there would be more upward socioeconomic mobility. If all people had equal access for the tools to develop skills, gain knowledge, and pursue their potential, it would be good overall for society._ 
 
  _Some latent functions of this change would be economic and social. More people being educated would improve the efficacy of the workforce as a whole, which would grow the economy. And when more people have access to education, there would be more understanding of diverse perspectives and critical thinking. This would hopefully reduce prejudice and nurture empathy across society._
 
- _The impact of increased access to education on families would also be manifest. Family members would have access to resources that support the function of their family both internally and externally. Then, a latent effect of increased access to education on the family structure might be that women and marginalized people could have more autonomy, more power, and better decision-making abilities beyond what their socialized functions within a more traditional family unit had previously allowed._
+ _The impact of increased access to education on families would also be manifest. Family members would have access to resources that support the function of their family both within the family unit and outside it. There would also be latent effects of that increased access to education on the family structure. For example, women and those with intersectional identities would have more autonomy, more power, and better decision-making abilities beyond what their socialized functions within a more traditional family unit had previously allowed._
 
 ## Slide 16 - Review of functionalism
 Functionalism's image of an ideal society is: **A state of equilibrium**.
@@ -146,4 +146,4 @@ Functionalism's image of an ideal society is: **A state of equilibrium**.
 What are the similarities and differences? 
 Describe why you think so -- Chat with the prof on Teams, connect with a peer, or post on the Lesson Lounge discussion board. 
 
-_Amy: I think that the first link is more credible because it is peer reviewed. The second source is not, so that is a difference.  However, they are similar in that they both reference reliable data sources (NASA for the second source, and peer-reviewed papers for the first source). We should also look at the note at the bottom of the first source, where they acknowledge that they have received financing from three institutions. It is good to disclose the funding sources so that the readers can search for bias. The second source does not disclose this or have any "about us" section on the website, further devaluing the source for academic use._
+_Amy: I think that the first link is more credible because it is peer reviewed. The second source is not, so that is a difference.  However, they are similar in that they both reference reliable data sources (NASA for the second source, and peer-reviewed papers for the first source). We should also look at the note at the bottom of the first source, where they acknowledge that they have received financing from three institutions. It is good to disclose the funding sources so that the readers can search for bias towards their financiers interests. The second source does not disclose this kind of information, and doesn't have an "about us" section on their website, which further devalues its credibility as a source for academic use._
