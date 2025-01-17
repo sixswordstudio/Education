@@ -6,8 +6,14 @@
 - Job fair on Feb 6th, pop over, look for part-time gig
 - In-class test 1 Feb 21st
 
-### Assignment #1 instructions
+### Assignment #1 notes and instructions
 - Interpreting sources
+- A historical narrative presentation for the era between 1500 - 1815
+  - Sources that aren't photographs
+  - Primary sources = key
+- Focus on the importance, significance of it within the context of the era.
+- Consider it like a journal of walking through the sources. Your interpretation based on the sources and research done at the time. 
+
 
 
 ## Europe at the end of the Middle Ages and the Reformation
@@ -161,3 +167,24 @@
 - Increased incidents of heresy
   - some religious movements became radicalized
 
+### Figures in the Reformation
+- Desiderius EErasmus (1466-1536)
+  - wanted reform within the church not without. 
+- Sir Thomas More
+  - satirist, wrote Utopia
+- Martin Luther
+  - Wanted to close the gap between God and man
+  - Ninety-Five Thesis (1517)
+    - Opposes indulgences
+    - "good works do not make a good man, but a good man does good work"
+    - you can't just do good things, but you have to be good too
+    - did not fear god's will (unlike Calvinists)
+- John Calvin
+  - more hardcore than Luther in strict interpretation of Bible
+  - predestination was key, but not passive. people still had free will, but if they felt God's call, they could respond accordingly
+  - e.g if they felt like doing good, they are probably predestined to do so
+- Catholic Reformation
+  - Protestant Revolutions allowed Catholic Church to reform as well, in order to modernize somewhat to compete
+  - Europe could have gone all protestant
+
+## Scientific Revolution
