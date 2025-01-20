@@ -77,21 +77,14 @@ In one full and complete paragraph (about 5-6 full, grammatically correct senten
 
 _Amy's Comment: You captured the essence of Git technology well. The "Education" aspect is the self-titled name of my repository, as though "Education" is my personal project. GitHub has a bunch of amazing project management tools that I'm familiar with, that will help me keep the project compartmentalized from the rest of my personal projects and well-organized._
 
-- SMART goal 2: **To get the best grades possible in all my classes**
-  - S: Aim for 95% or higher in all my classes
-  - M: Treat every gradeable assignment like it's worth 100% of my grade.
-  - A: It's for sure achieveable,
-  - R: I've done it before, so it's realistic.
-  - T: Every deadline is an opportunity for me to seize my destiny, own it, and make it mine.
-- SMART goal 3: **To get the most that I can out of my educational experience as a whole**
-  - S: Sign up to volunteer, or attend events not directly related to academics
-  - M: Attend at least 2 events this semester
-  - A: It's for sure achievable,
-  - R: I've done it before.
-  - T: I only have until the end of the semester to complete this. 
+- SMART goal 2: **To improve my overall academic GPA by receiving marks in the high 90s in all my classes this term by attending every class, participating, and sticking to my time management calendar. I'll be able to gauge my progress by tracking my grades as they come in, and by preparing thoroughly for each assignment, test, and quiz. More specifically, I will print out the syllabus and the rubrics for every class and assignment, and review them at least twice: once before starting the assignment, and once again before submitting. This will help me ensure that what I'm delivering qualifies for the high grades I'm aiming for. I will also write a letter to the grade removal department of the schools where I have had difficulty staying on track in the past, and work together with professor Todd Martin to edit it into the appropriate tone to achieve that goal. I will aim to complete the letter by the end of the summer term, after I've worked hard to achieve high marks in semester 1 at Durham College.**
+_.Amy's Comment: This is important for me because I have a lot of "withdrawed" and "unfinished" grades on my student record, alongside some very high marks. I want my record to show what I am capable of, and that I'm worthy of a spot in a degree program at Ontario Tech despite the bipolar grades on my academic record._
+
+- SMART goal 3: **To upgrade my math skills by completing the SALS online Math course with at least an 80% grade before the end of the semester, and then to complete the math upgrading course MDM4U (Mathematics for Data Management) before the end of the second semester. Completing these milestones will mean I meet the academic requirements to apply for Ontario Tech's Bachelor of Commerce degree after Durham College. This is how I will get the most out of this program and make real step-by-step progress towards my long-term goals.**
+_.Amy's Comment: I changed the goal to be more focused on something that will get me closer to my long-term goals. And it's also one that I feel more confident that I will actually complete. It works with my strengths while also pushing me to accomplish something truly meaningful._
 
 4. Rewards: 
-  - SMART goal 1: **I'll buy myself Civilization 7 at the end of the semester to play over the summer**. Keeping it as a reward at the end of a period of intense focus will help motivate me and prevent me from picking it up on a whim midway through the semester (a risk to my focus).
+  - SMART goal 1: **I'll buy myself Civilization 7 at the end of the semester to play over the summer**. Keeping it as a reward at the end of a period of intense focus will help motivate me and prevent me from picking it up on a whim midway through the semester (which would be a risk to my focus).
   - SMART goal 2: **I'll print my grades out and frame them.** Having grades to look at will remind me that I can accomplish it, and no one can take it away from me once it's been done. 
   - SMART goal 3: **I'll book myself a high quality hair cut and style appointment.** I can be self-conscious and anti-social, so rewarding myself with something that boosts my confidence will help mitigate negative self-talk that keeps me isolated at home. I may actually look forward to going out if I feel better about how I look.  
 
