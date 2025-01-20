@@ -73,12 +73,10 @@ In one full and complete paragraph (about 5-6 full, grammatically correct senten
 1. My vision for the Winter 2025 semester is to be proud of my grades and my performance, to have set the cornerstone of foundations for further success.
 2. In order to make this vision a reality, I will show up to class on time, complete my assignments on time, and take responsibility for all the commitments I've made.
 3. 
-- SMART goal 1: **To give school the same energy and focus that I gave my career.** 
-  - S: Use project management tools I'm familiar with to track my progress. 
-  - M: Monitor the contribution tracker in Github for my Education repository this semester, with more green boxes than empty.
-  - A: I have done this before, so I know I can do this again. 
-  - R: Incorporating tools and technologies, that I have used in the workplace, in my school processes, will help me retain highly valuable but perishable Git and project management skills.
-  - T: The contribution tracker only fills a box if I push changes to my Education repository within those 24 hours. There's no way to cheat this time-binding. 
+- SMART goal 1: **To use project management tools, strategies, and technologies to track my progress this semester. I know that applying this approach to my schoolwork will increase my productivity and help me meet my deadlines without getting overwhelmed. Pushing at least one meaningful change to my Education repository every 24 hours will ensure that the GitHub contribution tracker will reflect my commitment to being consistent this semester. Using Git version control and tracking will also help me manage my anxiety by producing a well-documented record of updates and edits.** 
+
+_Amy's Comment: You captured the essence of Git technology well. The "Education" aspect is the self-titled name of my repository, as though "Education" is my personal project. GitHub has a bunch of amazing project management tools that I'm familiar with, that will help me keep the project compartmentalized from the rest of my personal projects and well-organized._
+
 - SMART goal 2: **To get the best grades possible in all my classes**
   - S: Aim for 95% or higher in all my classes
   - M: Treat every gradeable assignment like it's worth 100% of my grade.
