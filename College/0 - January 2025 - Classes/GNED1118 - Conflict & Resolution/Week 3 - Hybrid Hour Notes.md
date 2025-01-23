@@ -43,4 +43,4 @@ My friend and I argued because she was always saying things that were very negat
 
 ### Jim and Carl Share a Workspace (Conflict Analysis)
 **What are the root causes / reasons for this conflict?**
-- One cause of the conflict is that Jim is not willing to be up front with Carl, but he also can't pretend he is fine. Jim and Carl's relationship then suffers slowly as they both react to each otherpassive aggressively, making the situation spiral slowly downwards instead of dragging the issue into the light, facing the conflict, and having a better outcome for both people.. 
+- One cause of the conflict is that Jim is not willing to be up front with Carl, but he also can't pretend he is fine. Jim and Carl's relationship then suffers slowly as they both react to each other passive aggressively, making the situation spiral slowly downwards instead of dragging the issue into the light, facing the conflict, and having a better outcome for both people.
