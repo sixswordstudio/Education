@@ -109,6 +109,7 @@ I would be curious to see or read a full article (or even book) analyzing hockey
 
 ### Weekly Activity #3
 - Throughout the semester, you'll be asked to identify and / or provide analysis from each of the sociological perspectives. Let's practice!
+- Weekly activity 3 = post in the Lesson Lounge.
 
 ### Fake News Practice for Assignment #1
 - Language Matters
@@ -127,5 +128,44 @@ Stats Canada vs. "NightTerrors" channel.
 - Obviously stats Canada is more credible than whatever random channel. 
 
 
+### Notes from Video: Crash Course Sociology #15
+- [Social Interaction & Performance: Crash Course Sociology](https://www.youtube.com/watch?v=UUukBV82P9A&t=149s&ab_channel=CrashCourse)
+- Status affects a person's role and the expectations of how to interact with them. 
+- Ascribed status: NO CHOICE. Assigned at birth. (Race etc.)
+- Achieved status: Earned, accomplished, attained. (Student, profession, etc.)
+- Master status: Others Most likely used to identify you. (Prof, cancer patient)
+  - Important mostly to other people, can be negative. 
+- Mismatch in statuses = status inconsistency. 
+  - I would like to reconcile the inconsistency in status between my professional status (achieved) and my master status (dropout)
+- Hold status, perform role. 
+- A single status has multiple roles. (Prof = teach and lead in the classroom. But a colleague in the staff room. Employee to the principle. Etc.)
+- Role sets = can demand contradictory behaviours.
+- Role conflict = clashing demands due to different statuses held (parents who work --> demands of work vs. demands of family)
+- Role strain = clashing demands within a single status (students with extracurriculars)
+- Role exit = Quit job, get laid off, etc. Roles are a part of who we are, so it can be traumatic. (I CAN RELATE!)
+- Role = guidelines, expectations that we have for ourselves and what others place on us.
+
+Why do statuses come bundled with roles? Why do I have to perform my role?
+
+- Thomas Theorem (William and Dorothy Thomas)
+  - If people define situations are real, they are real in their consequences. (Guild officer in an MMO = real role expectations)
+  - **Reality becomes socially constructed by you and everyone around you using assumptions and experiences to define what's real.**
+  - **By interacting with people around you, and expecting certain behaviours in the context of roles, you actually create the social reality that shapes the interactions that you're having.**
+  - The fact that this happens in **interaction** is important because social reality is not about 1 individual. It's about their expectations too. 
+  - Dramaturgical analysis of of Social interaction = we are peforming.
+
+- Irving Goffman (Canadian sociologist)
+  - **Social interaction** = a play where we perform our roles for each other. With the goal of social interaction always at least partly to maintain a successful interaction that's in line with expectations.
+  - To satisfy the audience. 
+  - **Impression Management** = Control the info others receive about us.
+  -  What you wear & do is a part of this. Props and nonverbal communication.
+  - Setting can be a prop. Standing at the front of a classroom. Body language. 
+  - Gestures, etc. 
+  - Sign Vehicles = convey impressions to others. 
+  - What is part of the performance and what isn't? The front stage = audience is there, performance happens. Back stage = drop performance, prepare, would ruin the impression / performance because it defies the expectations.
+  - Performances aren't adversarial. We all want the performance to go smoothly.
+
+
 ## Notes to prof: 
 - Slide 8, typo. "Langage" --> "Language"
+- The "Lesson Lounge" is another place in the discussion board area. Sometimes we have to post to the lesson lounge for a weekly activity, and sometimes we have to post in the general "discussion board". I think that this is fracturing the discussion into too many locations. Also, the slides say that we "can" post to the lesson lounge, or we can keep our notes private. It leads to uncertainty as to whether the reflections are mandatory. Are they being evaluated? Am I missing out or giving the impression that I'm not doing the work if I prefer to keep my notes private? Having 2 separate locations to post, and ambiguity about whether we should post, makes the course more difficult to navigate than my other courses. That is my general feedback. I would like to see 1 discussion board and clear instructions re: posting expectations. 
