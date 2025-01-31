@@ -227,3 +227,15 @@ Objectives
       - Negative:
 Thesis:
 - The invention of the printing press added uncertainty and chaos into relatively stable societal systems that had been in place for centuries. Those that found opportunities within the chaos were so wildly successful that they set an aspirational precedent for centuries to follow, for better or for worse.
+
+Essay structure: 
+- Claim: Value. A claim of value is supported through a process of reasoning where a certain standard is accepted as a premise.
+    - John Gutenberg may be accredited for his role in the development of the Printing Press, but it was unfair that he was stripped of his invention due to unethical business strategy by John Fust. Unfair and unethical business practices are a theme throughout the history of Western Civilization.
+    - Original Sin: A History of Western Civilization's Unethical Business Practices
+    - The real original sin: How the men of Western Civilization have damned us all by their inability to resist the temptations of unethical business practices
+    - The real original sin: How western capitalism was built on unethical business practices
+    - The Gutenberg-Fust dispute: Setting a precedent for exploitative business practices in Western History. 
+        - Prove: that the trial itself was an instance of exploitative business practice. (Fust's lawsuit was legal but also an early example of profit-driven exploitation)
+        - Prove: that it influenced or reflected a broader pattern in Western business history (Link the dispute's economic / legal logic to later developments in capitalism and business ethics)
+        - The legal dispute prioritizes capital over innovation
+        - How was the judgment justified? Did it favour financial investment over creative labour? Did it set a legal precedent for creditors seizing IP?
