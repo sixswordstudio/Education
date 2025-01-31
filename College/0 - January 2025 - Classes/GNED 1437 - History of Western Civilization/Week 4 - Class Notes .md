@@ -196,7 +196,8 @@ Objectives
 - Environment: Invasive species destroyed many native species in many places around the world
     - Massive deforestation for plantations, farming, and settlement (the prairies of Canada were once forested)
     - New foods were discovered and cuisines created (many of the world's authentic cuisine did not exist before the Columbian Exchange)
-- 
+- Religion
+    - Enlightened colonizers insisted native populations become Christian, and most of the Americas is now Christianity
 
 ### Notes for Assignment #1 
 
