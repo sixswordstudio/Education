@@ -207,22 +207,22 @@ Objectives
 - The economic, political, environmental, and cultural impact of the invention of the Gutenberg Press.
   - Economic: What was the business maneuver that Fust successfully pulled on Gutenberg? What precedent was set here? Which industries were positively impacted, which were negatively impacted?
     - Description: Fust invested significant capital into Gutenberg's venture. So much so, that he himself had to take out a loan in order to invest in Gutenberg's projects. Fust then sued Gutenberg and won, recouping his initial investment plus interest and Gutenberg's physical assets.
-    - Impact:
+    - Impact on the Economy:
       - Positive: 
       - Negative:
   - Environmental: What was the overall environmental impact of the printing industry over the last 500 years? What was it before?
     - Description:
-    - Impact:
+    - Impact on the Environment:
       - Positive: 
       - Negative:
   - Political: Whose politics did the invention of the printing press disrupt or fortify?
     - Description:
-    - Impact:
+    - Impact on Politics:
       - Positive: 
       - Negative:
   - Cultural: What aspects of western culture did the printing press amplify or destroy?
     - Description:
-    - Impact:
+    - Impact on Culture:
       - Positive: 
       - Negative:
 Thesis:
